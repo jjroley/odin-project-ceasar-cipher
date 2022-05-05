@@ -15,4 +15,4 @@ def caesar_cipher(message = '', shift = 0)
   caesar_string
 end
 
-puts caesar_cipher('Hello, there, Mrs. Stone!', 1) 
+puts caesar_cipher('A secret message', 13) 
